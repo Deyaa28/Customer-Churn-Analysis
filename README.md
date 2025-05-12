@@ -3,11 +3,6 @@
 ## Project Overview  
 This project is an interactive Power BI dashboard aimed at analyzing and visualizing customer churn for a subscription-based business. It enables stakeholders to understand churn behavior, identify high-risk segments, and develop retention strategies based on data insights.
 
-**YOU CAN INTERACT WITH THE DASHBOARD HERE:**  
-*Power BI Interactive Dashboard Link (Add your published link here)*
-
-![Screenshot](insert-screenshot-here)
-
 ---
 
 ## Objectives  
@@ -68,9 +63,3 @@ Source: *Telco Customer Churn Dataset* (public domain / Kaggle)
 3. Use slicers to explore churn by demographic and service features.  
 4. Adjust filters to compare trends across customer groups.  
 5. Interpret KPIs and visuals to derive actionable business insights.
-
----
-
-## Credits  
-- Dataset from [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-- Dashboard developed using Power BI and DAX.
