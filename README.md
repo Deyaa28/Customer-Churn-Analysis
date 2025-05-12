@@ -14,7 +14,6 @@ This project is an interactive Power BI dashboard aimed at analyzing and visuali
 
 ![image](https://github.com/user-attachments/assets/718cc4c0-6a03-4bdb-9cd3-5bf2a908322a)
 
-
 ---
 
 ## Key Metrics & KPIs  
@@ -55,8 +54,6 @@ The dataset used in the analysis includes:
 - **Service Subscriptions (Phone, Internet, Streaming, etc.)**
 - **Contract Type & Payment Method**
 - **Churn Status**
-
-Source: *Telco Customer Churn Dataset* (public domain / Kaggle)
 
 ---
 
